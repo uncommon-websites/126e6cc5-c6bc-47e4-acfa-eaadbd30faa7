@@ -2,27 +2,27 @@
   const steps = [
     {
       num: "01",
-      title: "Design yours",
-      desc: "Take your pick with layouts and customizations that reflect your style and needs.",
-      img: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop"
+      title: "Choose your package",
+      desc: "Select from our three party packages or create a custom experience for your group event.",
+      img: "/generated/image-birthday-party-setup-in-activity-center--1766036163974-11.webp"
     },
     {
       num: "02",
-      title: "Sign off",
-      desc: "We visit your site to create a complete proposal for the work required to install Backyard.",
-      img: "https://images.unsplash.com/photo-1599619351208-3e6c839d6828?q=80&w=2072&auto=format&fit=crop"
+      title: "Book online",
+      desc: "Pick your date and time through our easy online booking system. We'll confirm within 24 hours.",
+      img: "/generated/image-family-with-kids-entering-a-modern-enter-1766036161128-10.webp"
     },
     {
       num: "03",
-      title: "Sit back",
-      desc: "We secure permitting, permits, manufacture your ADU, and prep your site. You get to relax.",
-      img: "https://images.unsplash.com/photo-1581094794329-cd8119608f84?q=80&w=2070&auto=format&fit=crop"
+      title: "Show up & jump",
+      desc: "We handle everything—decorations, food, drinks, and cleanup. You just bring the birthday kid!",
+      img: "/generated/image-children-having-fun-at-a-birthday-party--1766036134475-1.webp"
     },
     {
       num: "04",
-      title: "Get your keys",
-      desc: "After as few as eight weeks on site, we'll deliver Backyard to your life. Your life is now ready for use.",
-      img: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1973&auto=format&fit=crop"
+      title: "Make memories",
+      desc: "Your dedicated party host ensures everyone has a blast. Leave with happy, tired kids and amazing photos.",
+      img: "/generated/image-group-of-diverse-kids-ages-5-13-jumping--1766036149376-6.webp"
     }
   ];
 </script>
@@ -30,7 +30,7 @@
 <section class="bg-white py-24 px-6">
   <div class="max-w-[1200px] mx-auto">
     <h2 class="text-[40px] leading-tight font-light text-gray-900 mb-16 max-w-[600px]">
-      Get Backyard in four simple steps. And as few as eight weeks on site.
+      Book the perfect party in four simple steps. Zero stress guaranteed.
     </h2>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
@@ -50,16 +50,16 @@
 
     <div class="bg-[#f9f9f7] rounded-2xl p-12 flex flex-col md:flex-row items-center justify-between gap-8">
       <div>
-        <h3 class="text-2xl font-light mb-2">Want the details?</h3>
-        <p class="text-gray-500 text-sm">Learn more about our fast, easy installation process.</p>
+        <h3 class="text-2xl font-light mb-2">Ready to book?</h3>
+        <p class="text-gray-500 text-sm">Check out our party packages and group event options.</p>
       </div>
       <div class="flex gap-4">
         <button class="px-6 py-3 bg-white border border-gray-200 hover:bg-gray-50 rounded-lg text-sm font-medium transition-colors">
-          How it works
+          View packages
         </button>
-        <button class="px-6 py-3 bg-[#007aff] hover:bg-[#0062cc] text-white rounded-lg text-sm font-medium transition-colors flex items-center gap-2">
-          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-          Download brochure
+        <button class="px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white rounded-lg text-sm font-medium transition-colors flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          Book now
         </button>
       </div>
     </div>
